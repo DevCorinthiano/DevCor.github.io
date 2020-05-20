@@ -1,0 +1,13 @@
+Package: com.devcorinthiano.cocoatop
+Version: 2.0.2-1debug
+Architecture: iphoneos-arm
+Maintainer: DevCorinthiano <myrepo.cydia@gmail.com>
+Filename: /CocoaTop.deb
+Size: 151514
+MD5sum: c30794b242e73c924db279640dc6eee1
+SHA1: 2b6de3e669fb288c9369affae3c1285ca6899282
+SHA256: 143609060c4cb424d0c8fe580bc4eda62985e27e665ce91fb5e6d3034217d35e
+Section: Tweaks
+Description: Ajustes
+Author: DevCorinthiano <myrepo.cydia@gmail.com>
+Name: CocoaTop
